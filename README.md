@@ -4,7 +4,7 @@ Made by: <strong>Javier Marcos, Rafael Pimentel, Daniel Caffrey and Paris Lopez<
 </p>
 
 <p>
-This is a web-based Javascript application that allows a user to become the host of a room. Attendants who join this room can then anonymously 
+This is a web-based Javascript application created in 2019 that allows a user to become the host of a room. Attendants who join this room can then anonymously 
   ask questions to the host, as well as vote on questions other attendants have posted. The host can then look at 
   these questions and delete them from the list as they are resolved. The questions are sorted by number of upvotes.
   The list regularly and automatically refreshes to add newly asked questions and update the upvotes on existing questions. 
